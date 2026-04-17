@@ -1,0 +1,17 @@
+Work Breakdown Structure (WBS)
+The Work Breakdown Structure (WBS) for the Fitness Goal Tracking Dashboard project divides the entire project into smaller, manageable components to ensure systematic planning and execution. The project begins with the Project Initiation phase, which includes requirement gathering, problem definition, feasibility study (covering technical, economic, legal, operational, and schedule aspects), and preparation of the project charter. This is followed by the Project Planning phase, where the scope is defined by identifying in-scope and out-of-scope features, setting SMART objectives, creating the WBS, and performing effort and cost estimation using techniques such as LOC and COCOMO.
+Next is the System Design phase, which involves designing the user interface (UI/UX), creating wireframes and layouts, planning the database structure, and defining the overall system architecture. The Development phase includes frontend development (login page, dashboard interface, workout logging form), backend or logic development (data storage and processing), and implementation of key feature modules such as goal setting, progress tracking, and report generation. After development, the project moves to the Testing phase, which consists of unit testing, integration testing, system testing, and bug fixing to ensure the system functions correctly.
+The Deployment phase involves code review, hosting setup, and final system deployment. This is followed by the Monitoring and Control phase, where project progress is tracked, weekly status reports are prepared, and system performance is monitored. Finally, the project concludes with the Project Closure phase, which includes documentation, final report submission, presentation preparation, and recording lessons learned. The lowest-level tasks in each phase represent the work packages, ensuring clear task allocation and effective project management.
+
+
+
+
+
+
+
+
+
+
+
+   
+
