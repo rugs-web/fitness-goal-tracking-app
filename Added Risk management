@@ -1,0 +1,10 @@
+ Risk Management (Risk Register + Probability–Impact Matrix + Mitigation)
+The Fitness Goal Tracking Dashboard project involves certain risks that may affect its successful completion. These risks are identified, analyzed, and mitigation strategies are proposed below.
+Risk Register
+Risk ID	Risk Description	Probability	Impact	Risk Level	Mitigation Strategy
+R1	Delay in project completion	High	Medium	High	Create proper schedule and follow deadlines
+R2	Bugs and errors in system	High	Medium	High	Perform regular testing and debugging
+R3	Data loss or incorrect data storage	Medium	High	High	Implement data backup and validation
+R4	Poor user interface design	Medium	Low	Medium	Take feedback and improve UI design
+R5	Scope creep (adding extra features)	Low	Medium	Medium	Clearly define scope and avoid changes
+
