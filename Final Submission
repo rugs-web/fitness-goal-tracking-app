@@ -1,0 +1,140 @@
+1. Introduction
+The Fitness Goal Tracking Dashboard is a web-based application designed to help individuals systematically monitor, manage, and achieve their fitness goals. In today’s fast-paced lifestyle, many people struggle to maintain consistency in their workouts and track their physical progress effectively. This project addresses that gap by providing a centralized platform where users can log their daily workouts and visualize their progress through structured reports and dashboards.
+The system enables users to record key fitness activities such as exercises performed, sets, repetitions, duration, and calories burned. It further transforms this raw data into meaningful insights using charts and progress reports, helping users stay motivated and make informed decisions about their fitness routines.
+This project follows the principles of Software Project Management, covering all phases from initiation and planning to execution, monitoring, and closure. It not only focuses on building a functional system but also emphasizes proper project governance, risk management, quality assurance, and stakeholder communication.
+Overall, the Fitness Goal Tracking Dashboard aims to promote a disciplined and data-driven approach to fitness while demonstrating the practical application of project management concepts in software development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Project Charter 
+The project titled “Fitness Goal Tracking Dashboard: Workout Logging + Progress Reports” focuses on developing a web-based system that helps users effectively track their fitness activities and monitor progress. Many individuals face difficulty in maintaining consistency in workouts due to the lack of proper tracking tools and meaningful insights. Traditional methods fail to provide visualization and structured reports, which reduces motivation. This project aims to solve this problem by offering a centralized dashboard for logging workouts and analyzing progress.
+Project Objectives
+•	To design a user-friendly fitness tracking dashboard 
+•	To enable users to log daily workout activities 
+•	To generate weekly and monthly progress reports 
+•	To help users set and achieve fitness goals 
+•	To apply Software Project Management concepts in real implementation
+
+High-Level Requirements
+•	User registration and login system 
+•	Workout logging module (exercise, reps, sets, duration) 
+•	Dashboard with charts and analytics 
+•	Goal-setting feature 
+•	Progress report generation (weekly/monthly) 
+
+Key Stakeholders
+Stakeholder	Role	Interest
+Users	End Users	High
+Developer (Student)	Project Manager	High
+Faculty	Evaluator	Medium
+
+
+
+
+ Assumptions
+These are conditions considered to be true for the successful functioning of the project:
+•	Users will have access to internet-enabled devices such as laptops or smartphones 
+•	Users will enter accurate and consistent workout data 
+•	The system will be used by individuals for personal fitness tracking 
+•	Basic technical infrastructure (browser, system compatibility) will be available 
+•	Users have basic understanding of fitness activities 
+Constraints
+These are limitations that may affect the project:
+•	Limited time duration (semester-based deadline) 
+•	Limited budget (no advanced tools or paid services) 
+•	Development restricted to basic technologies (HTML, CSS, JavaScript) 
+•	No integration with external devices (like fitness bands or smartwatches) 
+•	Limited features due to individual project scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Feasibility Study (TELOS Framework)
+The feasibility study evaluates whether the Fitness Goal Tracking Dashboard project is practical and achievable within the given constraints using the TELOS framework.
+
+1. Technical Feasibility
+The project is technically feasible as it can be developed using basic web technologies such as HTML, CSS, and JavaScript. A simple database (like MySQL or local storage) can be used to store user data and workout logs. The required tools and technologies are easily available and familiar at an academic level. No advanced infrastructure or complex integrations are needed, making the system easy to design, develop, and deploy.
+
+2. Economic Feasibility
+The project is economically viable as it requires minimal investment. Since it is a student project, most tools (such as code editors, browsers, and hosting platforms) are free or open-source. There are no significant hardware or software costs involved. Hence, the overall development cost remains very low and affordable.
+
+ 3. Legal Feasibility
+The project does not involve any legal complications as it does not handle sensitive personal or financial data. It is intended for academic purposes and follows standard ethical practices. Proper care will be taken to ensure that user data is handled responsibly and no copyrighted material is misused.
+
+ 4. Operational Feasibility
+The system is easy to operate and user-friendly. Users can easily log their workouts and view progress without requiring technical expertise. The interface will be simple and intuitive, ensuring smooth interaction. The system fulfills the intended purpose of helping users track fitness goals effectively.
+
+5. Schedule Feasibility
+The project can be completed within the given semester timeline. It will be developed in phases such as planning, design, development, testing, and deployment. Since the scope is limited and well-defined, the project is achievable within the allocated time frame.
+
+
+
+4. Scope Statement
+The Fitness Goal Tracking Dashboard: Workout Logging + Progress Reports project focuses on developing a web-based application that enables users to efficiently track their fitness activities and monitor their progress over time. The system will allow users to log workout details such as exercises, sets, repetitions, and duration, and present this data through a structured dashboard with visual reports. The primary goal is to provide a simple, user-friendly platform that helps individuals stay consistent with their fitness routines and achieve their goals through better tracking and analysis.
+The scope of this project includes core functionalities such as user authentication, workout logging, progress visualization through charts, goal setting, and generation of weekly or monthly reports. The system will be designed using basic web technologies and will focus on usability and clarity rather than complex features.
+However, the project excludes advanced functionalities such as integration with wearable fitness devices, AI-based recommendations, live coaching features, and mobile application development. By clearly defining these boundaries, the project ensures focused development, avoids scope creep, and remains achievable within the given time and resource constraints.
+In-Scope Features
+The following functionalities are included in the project:
+•	User registration and login system 
+•	Workout logging (exercise name, sets, repetitions, duration) 
+•	Dashboard for visualizing progress (charts, summaries) 
+•	Goal setting (e.g., weight loss, muscle gain) 
+•	Weekly and monthly progress reports 
+•	Basic, user-friendly web interface (HTML, CSS, JavaScript) 
+
+Out-of-Scope Exclusions
+The following functionalities are not included in the project:
+•	Integration with wearable devices (fitness bands, smartwatches) 
+•	AI-based workout or diet recommendations 
+•	Live coaching or trainer interaction features 
+•	Mobile application development (only web-based system) 
+•	Advanced analytics or real-time performance tracking 
+
+
+5. SMART Project Objectives
+The objectives of the Fitness Goal Tracking Dashboard are defined using the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound) to ensure clarity and successful project completion.
+•	Specific:
+Develop a web-based dashboard that allows users to log workouts, set fitness goals, and track progress through visual reports. 
+•	Measurable: 
+o	Enable logging of at least 10 types of exercises 
+o	Generate weekly and monthly progress reports 
+o	Ensure the system can handle multiple user entries without errors 
+•	Achievable:
+The project will be developed using basic technologies like HTML, CSS, and JavaScript, making it feasible within the available skills and resources of a student. 
+•	Relevant:
+The project addresses a real-world problem of fitness tracking and aligns with academic requirements of Software Project Management, ensuring practical application of concepts. 
+•	Time-bound:
+The project will be completed within 8 weeks, covering all phases including planning, design, development, testing, and final submission. 
+
+
+
+
+
+
+
+
+
