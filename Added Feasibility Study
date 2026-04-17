@@ -1,0 +1,17 @@
+Feasibility Study (TELOS Framework)
+The feasibility study evaluates whether the Fitness Goal Tracking Dashboard project is practical and achievable within the given constraints using the TELOS framework.
+
+1. Technical Feasibility
+The project is technically feasible as it can be developed using basic web technologies such as HTML, CSS, and JavaScript. A simple database (like MySQL or local storage) can be used to store user data and workout logs. The required tools and technologies are easily available and familiar at an academic level. No advanced infrastructure or complex integrations are needed, making the system easy to design, develop, and deploy.
+
+2. Economic Feasibility
+The project is economically viable as it requires minimal investment. Since it is a student project, most tools (such as code editors, browsers, and hosting platforms) are free or open-source. There are no significant hardware or software costs involved. Hence, the overall development cost remains very low and affordable.
+
+ 3. Legal Feasibility
+The project does not involve any legal complications as it does not handle sensitive personal or financial data. It is intended for academic purposes and follows standard ethical practices. Proper care will be taken to ensure that user data is handled responsibly and no copyrighted material is misused.
+
+ 4. Operational Feasibility
+The system is easy to operate and user-friendly. Users can easily log their workouts and view progress without requiring technical expertise. The interface will be simple and intuitive, ensuring smooth interaction. The system fulfills the intended purpose of helping users track fitness goals effectively.
+
+5. Schedule Feasibility
+The project can be completed within the given semester timeline. It will be developed in phases such as planning, design, development, testing, and deployment. Since the scope is limited and well-defined, the project is achievable within the allocated time frame.
